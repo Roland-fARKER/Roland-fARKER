@@ -1,5 +1,5 @@
 <h1 align="center">
-	Hi 👋, I'm Roland Loaisiga
+	<img src="https://avatars.githubusercontent.com/u/117946686?v=4" style="border-radius:50%;" />Hi 👋, I'm Roland Loaisiga
 </h1>
 <h3 align="center">
 	A passionate fullstack developer from Nicaragua
