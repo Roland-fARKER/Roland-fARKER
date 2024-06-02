@@ -1,5 +1,5 @@
 <h1 align="center">
-	<div style="display: inline-block; border-radius: 50%; overflow: hidden; width: 50px; height: 50px;">
+	<div style="display: inline-block; border: solid 1px; border-radius: 50%; overflow: hidden; width: 50px; height: 50px;">
 		<img src="https://avatars.githubusercontent.com/u/117946686?v=4" alt="Roland Loaisiga" style="width: 100%; height: auto;" />
 	</div>
 	Hi 👋, I'm Roland Loaisiga
