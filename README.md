@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img src="https://avatars.githubusercontent.com/u/117946686?v=4" alt="Roland Loaisiga" style="border-radius:50%; width: 50px; height: 50px;" />
+	<img src="https://avatars.githubusercontent.com/u/117946686?v=4" alt="Roland Loaisiga" style="border-radius:20px; width: 50px; height: 50px;" />
 	Hi 👋, I'm Roland Loaisiga
 </h1>
 <h3 align="center">
